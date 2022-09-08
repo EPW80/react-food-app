@@ -17,11 +17,11 @@ a simple food app developed with react where the user can update and delete item
 
 ---
 
-[React.js](https://reactjs.org/)
-[Redux Toolkit](https://redux-toolkit.js.org/)
-[ReactStrap](https://reactstrap.github.io/?path=/story/home-installation--page)
-[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[Firebase](https://firebase.google.com/)
+1. [React.js](https://reactjs.org/)
+2. [Redux Toolkit](https://redux-toolkit.js.org/)
+3. [ReactStrap](https://reactstrap.github.io/?path=/story/home-installation--page)
+4. [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+5. [Firebase](https://firebase.google.com/)
 
 ### How to start?
 
