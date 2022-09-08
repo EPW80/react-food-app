@@ -39,7 +39,7 @@ npm start
 
 ```
 
-![](./public/meal.png)
+![](./public/meals.png)
 ![](./public/meal2.png)
 
 ## Erik P. Williams
