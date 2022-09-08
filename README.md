@@ -21,6 +21,7 @@ a simple food app developed with react where the user can update and delete item
 2. Redux Toolkit
 3. ReactStrap
 4. CSS
+5. Firebase
 
 ### How to start?
 
